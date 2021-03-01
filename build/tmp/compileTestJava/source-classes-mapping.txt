@@ -1,0 +1,19 @@
+com/nortal/clark/training/visualizer/TrainingVisualizer.java
+ com.nortal.clark.training.visualizer.TrainingVisualizer
+ com.nortal.clark.training.visualizer.TrainingVisualizer$1
+com/nortal/clark/training/simulator/TrainingSimulatorTrainingResultTest.java
+ com.nortal.clark.training.simulator.TrainingSimulatorTrainingResultTest
+com/nortal/clark/training/test/provided/ManyTargetsTest.java
+ com.nortal.clark.training.test.provided.ManyTargetsTest
+com/nortal/clark/training/test/provided/SimpleStraightTest.java
+ com.nortal.clark.training.test.provided.SimpleStraightTest
+com/nortal/clark/training/simulator/TrainingSimulatorAccelerationCalculationTest.java
+ com.nortal.clark.training.simulator.TrainingSimulatorAccelerationCalculationTest
+com/nortal/clark/training/simulator/TrainingSimulator.java
+ com.nortal.clark.training.simulator.TrainingSimulator
+com/nortal/clark/training/test/provided/ManyTargetsOnDifferentPositions.java
+ com.nortal.clark.training.test.provided.ManyTargetsOnDifferentPositions
+com/nortal/clark/training/test/TrainingSimulationTest.java
+ com.nortal.clark.training.test.TrainingSimulationTest
+com/nortal/clark/training/simulator/TrainingSimulatorSpeedCalculationTest.java
+ com.nortal.clark.training.simulator.TrainingSimulatorSpeedCalculationTest

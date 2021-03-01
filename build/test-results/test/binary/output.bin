@@ -1,0 +1,1140 @@
+HClark {horizontal=0.0, vertical=0.0, position=(1 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+HClark {horizontal=1.2, vertical=0.0, position=(1 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+KClark {horizontal=2.3964, vertical=0.0, position=(2 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=3.5820431675999997, vertical=0.0, position=(3 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=4.7499655844636255, vertical=0.0, position=(5 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+VClark {horizontal=5.893560151829654, vertical=0.0, position=(8 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=7.006725023671567, vertical=0.0, position=(11 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=8.083989534778205, vertical=0.0, position=(15 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=7.120612317782196, vertical=0.0, position=(19 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=8.193854518331817, vertical=0.0, position=(23 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=7.226006388662849, vertical=0.0, position=(27 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=6.295468467840358, vertical=0.0, position=(30 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=7.396386159766427, vertical=0.0, position=(33 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=6.459619839205466, vertical=0.0, position=(36 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=5.555303118037823, vertical=0.0, position=(39 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=6.678149636204621, vertical=0.0, position=(42 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=5.766655429795771, vertical=0.0, position=(45 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=6.883519642680788, vertical=0.0, position=(48 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=5.965062536002858, vertical=0.0, position=(51 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=5.0761076083567955, vertical=0.0, position=(54 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=6.211690437227752, vertical=0.0, position=(57 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=5.315227692007885, vertical=0.0, position=(60 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=4.444598578463166, vertical=0.0, position=(62 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=5.595212437153974, vertical=0.0, position=(65 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=4.716946431611768, vertical=0.0, position=(68 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+VClark {horizontal=3.86132247251503, vertical=0.0, position=(70 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=5.024047944423156, vertical=0.0, position=(72 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+UClark {horizontal=4.1609453000535, vertical=0.0, position=(74 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=3.317661635578407, vertical=0.0, position=(76 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=4.490144438757935, vertical=0.0, position=(78 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=3.639740946055663, vertical=0.0, position=(80 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=2.8066216606696774, vertical=0.0, position=(82 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=3.986928847804327, vertical=0.0, position=(84 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=3.147189843710691, vertical=0.0, position=(86 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=2.322427833929802, vertical=0.0, position=(87 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+XClark {horizontal=3.5089436563202723, vertical=0.0, position=(88 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=2.6781619423621965, vertical=0.0, position=(90 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=1.8602305638884034, vertical=0.0, position=(91 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=3.051579419511342, vertical=0.0, position=(92 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=2.228299077127379, vertical=0.0, position=(93 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=1.415885785184562, vertical=0.0, position=(94 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+XClark {horizontal=2.6108739537928427, vertical=0.0, position=(95 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=1.793832296786358, vertical=0.0, position=(96 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=0.9857877110138734, vertical=0.0, position=(97 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+WClark {horizontal=2.183358267485908, vertical=0.0, position=(98 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=1.3714406341754106, vertical=0.0, position=(99 ; 1)} ->> x=100, y=200
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=0.5667385106427419, vertical=0.0, position=(99 ; 1)} ->> x=100, y=200
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+XClark {horizontal=1.765935529294128, vertical=0.0, position=(100 ; 1)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.9581392085600695, vertical=1.2, position=(101 ; 1)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+]Clark {horizontal=0.15584413170261913, vertical=2.3964, position=(101 ; 2)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=3.5820431675999997, position=(101 ; 3)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=4.7499655844636255, position=(101 ; 5)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+XClark {horizontal=0.0, vertical=5.893560151829654, position=(101 ; 8)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=7.006725023671567, position=(101 ; 11)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=8.083989534778205, position=(101 ; 15)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=9.120612317782196, position=(101 ; 19)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=10.112648395153995, position=(101 ; 24)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=11.056984251243968, position=(101 ; 29)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=9.951341999413325, position=(101 ; 34)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=10.903768980440105, position=(101 ; 39)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=9.806538535493086, position=(101 ; 44)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=10.76611804037281, position=(101 ; 49)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=9.676344796224708, position=(101 ; 54)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=8.642265674686145, position=(101 ; 59)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=9.655543784706499, position=(101 ; 64)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=8.622469970260537, position=(101 ; 69)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=9.636602499290426, position=(101 ; 74)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+WClark {horizontal=0.0, vertical=8.6044422299671, position=(101 ; 79)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=9.619351164744998, position=(101 ; 84)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=8.588021372668296, position=(101 ; 89)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=7.603636094924777, position=(101 ; 93)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+XClark {horizontal=0.0, vertical=8.65909789026467, position=(101 ; 97)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.671647949581705, position=(101 ; 101)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=8.724512493925902, position=(101 ; 105)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.734219698284229, position=(101 ; 109)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=6.7846743124309095, position=(101 ; 113)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=7.86959479861651, position=(101 ; 117)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=6.91476849288048, position=(101 ; 121)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=7.995233434605149, position=(101 ; 125)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.035424040420579, position=(101 ; 129)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.111681061849259, position=(101 ; 132)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=7.218299448344842, position=(101 ; 135)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.288039831029904, position=(101 ; 138)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=5.3891912187383575, position=(101 ; 141)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=6.516582763758041, position=(101 ; 144)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=5.61041813646577, position=(101 ; 147)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=6.731726157300811, position=(101 ; 150)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=5.81843581465859, position=(101 ; 153)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.933800326335336, position=(101 ; 156)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=6.07294436218497, position=(101 ; 159)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=5.180742729119484, position=(101 ; 162)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.313642491056173, position=(101 ; 164)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=5.46712371220456, position=(101 ; 166)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.592400107993186, position=(101 ; 169)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=3.739674761113447, position=(101 ; 171)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=4.904711842816175, position=(101 ; 173)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.044571347163521, position=(101 ; 175)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=3.203674953707781, position=(101 ; 177)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=4.378016120685245, position=(101 ; 179)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=3.530098557802795, position=(101 ; 181)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.6989445682332915, position=(101 ; 183)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=3.8807338137773018, position=(101 ; 185)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=3.0430835764438156, position=(101 ; 187)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.2199326823107604, position=(101 ; 188)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=3.4076124295257815, position=(101 ; 189)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=2.578582873351135, position=(101 ; 190)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=1.7619601492642853, position=(101 ; 191)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=2.954198890345297, position=(101 ; 192)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.1323806626360033, position=(101 ; 193)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=3.3210130444100434, position=(101 ; 194)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.4934402253071895, position=(101 ; 195)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=1.6778971149142397, position=(101 ; 196)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=0.8708587680936458, position=(101 ; 197)} ->> x=100, y=200
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=2.068962780608732, position=(101 ; 198)} ->> x=100, y=200
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@256d
+[Clark {horizontal=0.0, vertical=1.2582612631398713, position=(101 ; 199)} ->> x=100, y=200
+Removing target
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@256d
+\Clark {horizontal=0.0, vertical=0.45430320962407544, position=(101 ; 199)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@256d
+[Clark {horizontal=0.0, vertical=1.6537872311083883, position=(101 ; 200)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@256d
+[Clark {horizontal=0.0, vertical=2.8469497005939455, position=(101 ; 201)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@256d
+ZClark {horizontal=0.0, vertical=4.026686894099665, position=(101 ; 203)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=5.18615137574188, position=(101 ; 205)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=6.318910960511607, position=(101 ; 208)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=7.419089371194422, position=(101 ; 211)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=8.481482153449997, position=(101 ; 215)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=9.50164330465177, position=(101 ; 219)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=10.475940240929685, position=(101 ; 224)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=9.401576931100859, position=(101 ; 229)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=10.38060280912234, position=(101 ; 234)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=9.311210522420444, position=(101 ; 239)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=8.29446391893836, position=(101 ; 243)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=9.322468589681934, position=(101 ; 247)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=8.305197538167919, position=(101 ; 251)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=9.332756772797943, position=(101 ; 255)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=8.315005900347428, position=(101 ; 259)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=9.342157592540396, position=(101 ; 263)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=8.323967821330745, position=(101 ; 267)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.350746720604371, position=(101 ; 271)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=8.415663027228181, position=(101 ; 275)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.438604566758542, position=(101 ; 279)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=8.50027247200704, position=(101 ; 283)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.519635891761139, position=(101 ; 287)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.578273581899483, position=(101 ; 291)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=7.670089373603691, position=(101 ; 295)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.723013696106021, position=(101 ; 299)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=5.810016413210948, position=(101 ; 302)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=6.925625686406496, position=(101 ; 305)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.005714958535963, position=(101 ; 308)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=7.1155434281280066, position=(101 ; 311)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.188966032434068, position=(101 ; 314)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=5.293207781057511, position=(101 ; 317)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=6.423162659523891, position=(101 ; 320)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=5.520020113147136, position=(101 ; 323)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=4.6438435580232635, position=(101 ; 326)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=5.789930350544778, position=(101 ; 329)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.906122116884379, position=(101 ; 332)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.045947031319924, position=(101 ; 334)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=5.205022812869308, position=(101 ; 336)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.337292156663084, position=(101 ; 338)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=5.490261898532456, position=(101 ; 340)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=4.6149044592462625, position=(101 ; 343)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=3.761661101326335, position=(101 ; 345)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=4.926285865723256, position=(101 ; 347)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.065615134646194, position=(101 ; 349)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=3.2242920685885332, position=(101 ; 351)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=4.398301920229626, position=(101 ; 353)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=3.549939270775887, position=(101 ; 355)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.7184340987103948, position=(101 ; 357)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=3.899959388837816, position=(101 ; 359)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=3.0619351807513553, position=(101 ; 361)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.2384965631235483, position=(101 ; 362)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=3.4259693959657582, position=(101 ; 363)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=2.596626230210523, position=(101 ; 365)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=1.77977006076198, position=(101 ; 366)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=0.9718511070890181, position=(101 ; 367)} ->> x=100, y=370
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=2.169489870653143, position=(101 ; 368)} ->> x=100, y=370
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@2617
+[Clark {horizontal=0.0, vertical=1.3577231549059765, position=(101 ; 369)} ->> x=100, y=370
+Removing target
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@2617
+[Clark {horizontal=0.0, vertical=0.5531146244925569, position=(101 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@2617
+LClark {horizontal=1.2, vertical=0.0, position=(101 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@2617
+OClark {horizontal=2.3964, vertical=0.0, position=(102 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=3.5820431675999997, vertical=0.0, position=(103 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=4.7499655844636255, vertical=0.0, position=(105 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.893560151829654, vertical=0.0, position=(108 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=5.006725023671567, vertical=0.0, position=(111 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=4.14405678501492, vertical=0.0, position=(113 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.301123768421349, vertical=0.0, position=(115 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=4.430868985401045, vertical=0.0, position=(117 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.581787485486572, vertical=0.0, position=(120 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=4.7038966066537355, vertical=0.0, position=(123 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.848579998438514, vertical=0.0, position=(125 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.011551078427562, vertical=0.0, position=(127 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=4.148761967898341, vertical=0.0, position=(129 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.305731403232642, vertical=0.0, position=(131 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=4.478411752956847, vertical=0.0, position=(133 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=3.6282713233842916, vertical=0.0, position=(135 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=2.7953604413940596, vertical=0.0, position=(137 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=3.9758253414007827, vertical=0.0, position=(139 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.136307373537471, vertical=0.0, position=(141 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=2.311716313684207, vertical=0.0, position=(142 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=1.498356232896823, vertical=0.0, position=(143 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=2.6927435543951708, vertical=0.0, position=(144 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=1.874616384770829, vertical=0.0, position=(145 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.0658309182957009, vertical=0.0, position=(146 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=2.262990929429713, vertical=0.0, position=(147 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=1.45018810956301, vertical=0.0, position=(148 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.6449304956802151, vertical=0.0, position=(149 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=1.8438906573195692, vertical=0.0, position=(150 ; 369)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=1.0353908254291933, vertical=-1.2, position=(151 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=WEST, speedLevel=L0_RUNNING_HUMAN)
+mClark {horizontal=0.23271074002573588, vertical=-0.39639999999999986, position=(151 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
+\Clark {horizontal=-2.5674246456955725, vertical=0.0, position=(150 ; 369)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+]Clark {horizontal=-1.7509454724172597, vertical=-1.2, position=(149 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+mClark {horizontal=-0.9432809472988134, vertical=-0.39639999999999986, position=(148 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=1.8589435000650294, vertical=0.0, position=(148 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.0503043227239441, vertical=0.0, position=(149 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.24754647479811254, vertical=0.0, position=(149 ; 369)} ->> x=150, y=120
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=1.4473932766551503, vertical=0.0, position=(149 ; 369)} ->> x=150, y=120
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.6421559084118839, vertical=0.0, position=(150 ; 369)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+MClark {horizontal=0.0, vertical=-1.2, position=(150 ; 369)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+PClark {horizontal=0.0, vertical=-2.3964, position=(150 ; 368)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.5820431675999997, position=(150 ; 367)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-4.7499655844636255, position=(150 ; 365)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.893560151829654, position=(150 ; 362)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-7.006725023671567, position=(150 ; 359)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-8.083989534778205, position=(150 ; 355)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-9.120612317782196, position=(150 ; 351)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-10.112648395153995, position=(150 ; 346)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-11.056984251243968, position=(150 ; 341)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-11.951341999413325, position=(150 ; 335)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-10.794255560445972, position=(150 ; 329)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-11.702965677685425, position=(150 ; 323)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-10.560567163552717, position=(150 ; 317)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-11.481753216512947, position=(150 ; 311)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-10.352176574200683, position=(150 ; 306)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-11.28425767464211, position=(150 ; 301)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-10.16592149647281, position=(150 ; 296)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-11.10755659679169, position=(150 ; 291)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-9.999112062914364, position=(150 ; 286)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-10.949156457797566, position=(150 ; 281)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-9.84944638995424, position=(150 ; 276)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-10.806917404482784, position=(150 ; 271)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-9.714943745014502, position=(150 ; 266)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-8.67899341509251, position=(150 ; 261)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-9.690681098344463, position=(150 ; 256)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-8.655907847969937, position=(150 ; 251)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-9.668595996288568, position=(150 ; 246)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-8.63489162493995, position=(150 ; 241)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-9.648488241503806, position=(150 ; 236)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-8.615754928137713, position=(150 ; 231)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-7.6301768456833905, position=(150 ; 227)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-8.684627848942384, position=(150 ; 223)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-7.696070946755819, position=(150 ; 219)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-8.747997176712072, position=(150 ; 215)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-7.756678540202667, position=(150 ; 211)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-6.806263385262565, position=(150 ; 207)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-7.890450332088651, position=(150 ; 203)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-6.934802315980757, position=(150 ; 199)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-8.014573608076427, position=(150 ; 195)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-7.053990132778239, position=(150 ; 191)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-6.129593190794907, position=(150 ; 188)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-7.235663409083308, position=(150 ; 185)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-6.30477634665944, position=(150 ; 182)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-5.405400834705949, position=(150 ; 179)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=-6.53235493924635, position=(150 ; 176)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-5.625675786615609, position=(150 ; 173)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-6.746555216475326, position=(150 ; 170)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-5.83276519825295, position=(150 ; 167)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.947712323608073, position=(150 ; 164)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-6.086512680515115, position=(150 ; 161)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-5.193898588989937, position=(150 ; 158)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.326457132608158, position=(150 ; 156)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.479661554307418, position=(150 ; 154)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.604594827433031, position=(150 ; 151)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-3.7515890936209733, position=(150 ; 149)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-4.916403041802534, position=(150 ; 147)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.055975494628921, position=(150 ; 145)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-3.214848151596345, position=(150 ; 143)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-4.3890100300017885, position=(150 ; 141)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-3.540851507393148, position=(150 ; 139)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-2.709507433899627, position=(150 ; 137)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.8911538575637334, position=(150 ; 135)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-3.0533011617056505, position=(150 ; 133)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-2.2299945417454676, position=(150 ; 132)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.4175623526049312, position=(150 ; 131)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-2.588363021520075, position=(150 ; 129)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-1.7716139636921433, position=(150 ; 128)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-2.9637674236012708, position=(150 ; 127)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-2.1418076302482705, position=(150 ; 126)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-1.3303392804357963, position=(150 ; 125)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=-2.52591477393312, position=(150 ; 124)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-1.7099641603201858, position=(150 ; 123)} ->> x=150, y=120
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-0.902654216746237, position=(150 ; 122)} ->> x=150, y=120
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@30a3
+\Clark {horizontal=0.0, vertical=-2.1006172551587126, position=(150 ; 121)} ->> x=150, y=120
+Removing target
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@30a3
+\Clark {horizontal=0.0, vertical=-1.2895857730270364, position=(150 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@30a3
+[Clark {horizontal=1.2, vertical=-0.485428194362052, position=(150 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@30a3
+OClark {horizontal=2.3964, vertical=0.0, position=(151 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@30a3
+[Clark {horizontal=3.5820431675999997, vertical=0.0, position=(152 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=4.7499655844636255, vertical=0.0, position=(154 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.893560151829654, vertical=0.0, position=(157 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=7.006725023671567, vertical=0.0, position=(160 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=8.083989534778205, vertical=0.0, position=(164 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=9.120612317782196, vertical=0.0, position=(168 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=10.112648395153995, vertical=0.0, position=(173 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=11.056984251243968, vertical=0.0, position=(178 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=9.951341999413325, vertical=0.0, position=(183 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=10.903768980440105, vertical=0.0, position=(188 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=9.806538535493086, vertical=0.0, position=(193 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=10.76611804037281, vertical=0.0, position=(198 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=9.676344796224708, vertical=0.0, position=(203 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=8.642265674686145, vertical=0.0, position=(208 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=9.655543784706499, vertical=0.0, position=(213 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=8.622469970260537, vertical=0.0, position=(218 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=9.636602499290426, vertical=0.0, position=(223 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=8.6044422299671, vertical=0.0, position=(228 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=9.619351164744998, vertical=0.0, position=(233 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=8.588021372668296, vertical=0.0, position=(238 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=7.603636094924777, vertical=0.0, position=(242 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+YClark {horizontal=8.65909789026467, vertical=0.0, position=(246 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=7.671647949581705, vertical=0.0, position=(250 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=8.724512493925902, vertical=0.0, position=(254 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=7.734219698284229, vertical=0.0, position=(258 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=6.7846743124309095, vertical=0.0, position=(262 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+YClark {horizontal=7.86959479861651, vertical=0.0, position=(266 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=6.91476849288048, vertical=0.0, position=(270 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=7.995233434605149, vertical=0.0, position=(274 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=7.035424040420579, vertical=0.0, position=(278 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=6.111681061849259, vertical=0.0, position=(281 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=7.218299448344842, vertical=0.0, position=(284 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=6.288039831029904, vertical=0.0, position=(287 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=7.3891912187383575, vertical=0.0, position=(290 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=6.452690851570657, vertical=0.0, position=(293 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=5.548597803505798, vertical=0.0, position=(296 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=6.671630459543124, vertical=0.0, position=(299 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=5.760353827071365, vertical=0.0, position=(302 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=4.877399636538725, vertical=0.0, position=(305 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=6.0179270685024555, vertical=0.0, position=(308 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=5.127388452997919, vertical=0.0, position=(311 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=4.2616631721280775, vertical=0.0, position=(313 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.416258739646396, vertical=0.0, position=(315 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=4.542919092809406, vertical=0.0, position=(317 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.691323808099876, vertical=0.0, position=(320 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=4.810345891378264, vertical=0.0, position=(323 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.952497322391515, vertical=0.0, position=(325 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.113441734682734, vertical=0.0, position=(327 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=4.248073518747746, vertical=0.0, position=(329 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.402958197196031, vertical=0.0, position=(331 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=4.574007885966372, vertical=0.0, position=(333 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.721704015614166, vertical=0.0, position=(335 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=2.8870763136645694, vertical=0.0, position=(337 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=4.066238289562262, vertical=0.0, position=(339 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.224902554993507, vertical=0.0, position=(341 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=2.3989025637704975, vertical=0.0, position=(342 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.5845157299943358, vertical=0.0, position=(343 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=2.778239004747837, vertical=0.0, position=(344 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.9589424748290813, vertical=0.0, position=(345 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.1493488357798576, vertical=0.0, position=(346 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=2.3460463289140865, vertical=0.0, position=(347 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.5322864954705584, vertical=0.0, position=(348 ; 120)} ->> x=350, y=300
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.7264167407100547, vertical=0.0, position=(349 ; 120)} ->> x=350, y=300
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=1.925097537507095, vertical=0.0, position=(350 ; 120)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=1.1158325361848052, vertical=1.2, position=(351 ; 120)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+_Clark {horizontal=0.31271983056278363, vertical=2.3964, position=(351 ; 121)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=3.5820431675999997, position=(351 ; 122)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=4.7499655844636255, position=(351 ; 124)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=5.893560151829654, position=(351 ; 127)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=7.006725023671567, position=(351 ; 130)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=8.083989534778205, position=(351 ; 134)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=9.120612317782196, position=(351 ; 138)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=10.112648395153995, position=(351 ; 143)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=9.056984251243968, position=(351 ; 148)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=10.051911841925765, position=(351 ; 153)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=8.999309512731147, position=(351 ; 158)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=9.996840583466314, position=(351 ; 163)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=8.946998529338217, position=(351 ; 168)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=9.946876572628266, position=(351 ; 173)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=8.899525688750513, position=(351 ; 178)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.901521795038687, position=(351 ; 182)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=8.945436678345008, position=(351 ; 186)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.945384584929307, position=(351 ; 190)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=8.987561744423227, position=(351 ; 194)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.985621079148677, position=(351 ; 198)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=9.026195719099318, position=(351 ; 202)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=8.022515196200601, position=(351 ; 206)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.061613321017427, position=(351 ; 210)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+XClark {horizontal=0.0, vertical=8.1369473642785, position=(351 ; 214)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.171422583255903, position=(351 ; 218)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=8.242849328586821, position=(351 ; 222)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=7.272987915952361, position=(351 ; 226)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.340747032888388, position=(351 ; 229)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=7.440234350550681, position=(351 ; 232)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.501841632572895, position=(351 ; 235)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=5.5961567710352496, position=(351 ; 238)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=6.71786434452024, position=(351 ; 241)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+XClark {horizontal=0.0, vertical=5.8050400911418, position=(351 ; 244)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=6.92079386499239, position=(351 ; 247)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=6.001050395688099, position=(351 ; 250)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=5.111018881059128, position=(351 ; 253)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=6.245712596052771, position=(351 ; 256)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=5.34819028147154, position=(351 ; 259)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=4.4766824332544735, position=(351 ; 261)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+YClark {horizontal=0.0, vertical=5.62658071923395, position=(351 ; 264)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.747434692758812, position=(351 ; 267)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=3.891089352353787, position=(351 ; 269)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=5.053237911483785, position=(351 ; 271)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=4.189399878008642, position=(351 ; 273)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=3.3455221996639946, position=(351 ; 275)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=4.5175409026928826, position=(351 ; 277)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=3.6665204631741246, position=(351 ; 279)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=2.832912032406938, position=(351 ; 281)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=4.012848555948548, position=(351 ; 283)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=3.1725911721161015, position=(351 ; 285)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=2.347427835252629, position=(351 ; 286)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=3.5336517916483317, position=(351 ; 287)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=2.702435054186783, position=(351 ; 289)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=1.8841771661315392, position=(351 ; 290)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=3.0753018571481103, position=(351 ; 291)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.2516581533666638, position=(351 ; 292)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=3.438983242267607, position=(351 ; 293)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=2.6094167279161136, position=(351 ; 295)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=1.7923940887662924, position=(351 ; 296)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=0.9843623973426815, position=(351 ; 297)} ->> x=350, y=300
+7VoiceCommand(direction=NORTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=2.181939974019426, position=(351 ; 298)} ->> x=350, y=300
+;VoiceCommand(direction=NORTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@5f6f
+ZClark {horizontal=0.0, vertical=1.370037818893866, position=(351 ; 299)} ->> x=350, y=300
+Removing target
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@5f6f
+[Clark {horizontal=0.0, vertical=0.5653453098308673, position=(351 ; 299)} ->> x=370, y=240
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@5f6f
+LClark {horizontal=1.2, vertical=0.0, position=(351 ; 299)} ->> x=370, y=240
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@5f6f
+OClark {horizontal=2.3964, vertical=0.0, position=(352 ; 299)} ->> x=370, y=240
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=3.5820431675999997, vertical=0.0, position=(353 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=2.749965584463625, vertical=0.0, position=(355 ; 299)} ->> x=370, y=240
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=3.931059807674289, vertical=0.0, position=(357 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=3.0924267296455086, vertical=0.0, position=(359 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=2.2685189719499435, vertical=0.0, position=(360 ; 299)} ->> x=370, y=240
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=3.4556535261347014, vertical=0.0, position=(361 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=2.6257996729029833, vertical=0.0, position=(363 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.8085626130974397, vertical=0.0, position=(364 ; 299)} ->> x=370, y=240
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=3.0003853662837052, vertical=0.0, position=(365 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=2.177879585418182, vertical=0.0, position=(366 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.3660216866967287, vertical=0.0, position=(367 ; 299)} ->> x=370, y=240
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=2.5613566485754142, vertical=0.0, position=(368 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.7449552788724105, vertical=0.0, position=(369 ; 299)} ->> x=370, y=240
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.9373431065592488, vertical=0.0, position=(370 ; 299)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+]Clark {horizontal=0.13514657631071336, vertical=-1.2, position=(370 ; 299)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+PClark {horizontal=0.0, vertical=-2.3964, position=(370 ; 298)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.5820431675999997, position=(370 ; 297)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-4.7499655844636255, position=(370 ; 295)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.893560151829654, position=(370 ; 292)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-5.006725023671567, position=(370 ; 289)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=-6.14405678501492, position=(370 ; 286)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+YClark {horizontal=0.0, vertical=-5.2496832005712, position=(370 ; 283)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.380785266305301, position=(370 ; 281)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.532807067431607, position=(370 ; 279)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.656277182318054, position=(370 ; 276)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.802074889321615, position=(370 ; 273)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.917914706768373, position=(370 ; 270)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.057449994110751, position=(370 ; 268)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.216292742973978, position=(370 ; 266)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-4.34826846802297, position=(370 ; 264)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-3.500999871347963, position=(370 ; 262)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-4.670357371100017, position=(370 ; 260)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-3.815826776165546, position=(370 ; 258)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-2.979425441201291, position=(370 ; 256)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-4.157233001302098, position=(370 ; 254)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-3.3140265357343095, position=(370 ; 252)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-2.4865696060354314, position=(370 ; 251)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.6711120350212836, position=(370 ; 249)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-2.8374193760870883, position=(370 ; 247)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-2.017292004297602, position=(370 ; 246)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-1.2071183367210945, position=(370 ; 245)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-2.4034755000239736, position=(370 ; 244)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-1.5890337638259349, position=(370 ; 243)} ->> x=370, y=240
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-0.7827211930694877, position=(370 ; 242)} ->> x=370, y=240
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@63cf
+\Clark {horizontal=0.0, vertical=-1.9811895619042874, position=(370 ; 241)} ->> x=370, y=240
+Removing target
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@63cf
+[Clark {horizontal=0.0, vertical=-1.171376781703791, position=(370 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@63cf
+\Clark {horizontal=1.2, vertical=-0.3679464727920041, position=(370 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@63cf
+OClark {horizontal=2.3964, vertical=0.0, position=(371 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@63cf
+[Clark {horizontal=3.5820431675999997, vertical=0.0, position=(372 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=4.7499655844636255, vertical=0.0, position=(374 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.893560151829653, vertical=0.0, position=(376 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=5.055660625189864, vertical=0.0, position=(378 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=4.191761364297126, vertical=0.0, position=(380 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.347834205959091, vertical=0.0, position=(382 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=4.5198142212826165, vertical=0.0, position=(384 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=3.668742419795345, vertical=0.0, position=(386 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=2.8350932424383304, vertical=0.0, position=(388 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=2.0149988582050318, vertical=0.0, position=(389 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=3.204848307208613, vertical=0.0, position=(390 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=2.379170675528068, vertical=0.0, position=(391 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=3.565019542769836, vertical=0.0, position=(392 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=2.733246131919009, vertical=0.0, position=(394 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.9145695458748833, vertical=0.0, position=(395 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.1054056045099043, vertical=0.0, position=(396 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=2.3023508006336995, vertical=0.0, position=(397 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.4890987526107529, vertical=0.0, position=(398 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.6835552148731856, vertical=0.0, position=(399 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=1.8823870955437347, vertical=0.0, position=(400 ; 240)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=1.0735286426000608, vertical=-1.2, position=(401 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=WEST, speedLevel=L0_RUNNING_HUMAN)
+lClark {horizontal=0.2706474832338539, vertical=-0.39639999999999986, position=(401 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=WEST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=-2.529535641916598, vertical=0.0, position=(400 ; 240)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=-1.713539265507282, vertical=-1.2, position=(399 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+mClark {horizontal=-0.9061987234711939, vertical=-0.39639999999999986, position=(398 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+[Clark {horizontal=1.8958542668448581, vertical=0.0, position=(398 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=1.0868686083420735, vertical=0.0, position=(399 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.28391539991257486, vertical=0.0, position=(399 ; 240)} ->> x=400, y=100
+6VoiceCommand(direction=EAST, speedLevel=L4_MACH_9350)
+ZClark {horizontal=1.483713880026806, vertical=0.0, position=(399 ; 240)} ->> x=400, y=100
+:VoiceCommand(direction=EAST, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.6782103628323454, vertical=0.0, position=(400 ; 240)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+MClark {horizontal=0.0, vertical=-1.2, position=(400 ; 240)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+PClark {horizontal=0.0, vertical=-2.3964, position=(400 ; 239)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.5820431675999997, position=(400 ; 238)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-4.7499655844636255, position=(400 ; 236)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.893560151829654, position=(400 ; 233)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-7.006725023671567, position=(400 ; 230)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-8.083989534778205, position=(400 ; 226)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-9.120612317782196, position=(400 ; 222)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-8.112648395153995, position=(400 ; 218)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-9.148110735195509, position=(400 ; 214)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-8.138890910137011, position=(400 ; 210)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-9.173287047019233, position=(400 ; 206)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-8.162914058901706, position=(400 ; 202)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-7.196331144069168, position=(400 ; 198)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-8.266863189231419, position=(400 ; 194)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-7.296010621757745, position=(400 ; 190)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+ZClark {horizontal=0.0, vertical=-8.36293119427574, position=(400 ; 186)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-7.388084648875265, position=(400 ; 182)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-6.451625161927899, position=(400 ; 179)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-7.5475664938528455, position=(400 ; 176)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-6.60515209390502, position=(400 ; 172)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-7.696082008445975, position=(400 ; 168)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ZClark {horizontal=0.0, vertical=-6.74800781274416, position=(400 ; 164)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-5.834168789142019, position=(400 ; 161)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-6.949074975491522, position=(400 ; 158)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-6.028350867954016, position=(400 ; 155)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-5.1374983324861105, position=(400 ; 152)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-6.271513609695367, position=(400 ; 149)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-5.373183902303881, position=(400 ; 146)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-6.5010061391839375, position=(400 ; 143)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-5.595348437129669, position=(400 ; 140)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.717078626797445, position=(400 ; 137)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.861451549868972, position=(400 ; 134)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.975560014190319, position=(400 ; 131)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-4.1136695205532945, position=(400 ; 129)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-5.271363828242471, position=(400 ; 127)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-4.401895636718213, position=(400 ; 125)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-3.5534539237268157, position=(400 ; 123)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-4.7218863367566914, position=(400 ; 121)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-3.8661458103135677, position=(400 ; 119)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-3.0287781017470548, position=(400 ; 117)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-4.205844359772998, position=(400 ; 115)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-3.3616215428264122, position=(400 ; 113)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-2.5333702943334258, position=(400 ; 112)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.7173253817128984, position=(400 ; 110)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-2.882779111729081, position=(400 ; 108)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-2.0620030732115273, position=(400 ; 107)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+\Clark {horizontal=0.0, vertical=-3.2513734315266927, position=(400 ; 106)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-2.4249448585485984, position=(400 ; 105)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+[Clark {horizontal=0.0, vertical=-1.610243964631095, position=(400 ; 104)} ->> x=400, y=100
+7VoiceCommand(direction=SOUTH, speedLevel=L4_MACH_9350)
+[Clark {horizontal=0.0, vertical=-2.803761750567018, position=(400 ; 103)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+\Clark {horizontal=0.0, vertical=-1.9841090506821613, position=(400 ; 102)} ->> x=400, y=100
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+ ITarget captured com.nortal.clark.training.assignment.model.Position@6a2d
+[Clark {horizontal=0.0, vertical=-1.174267328869664, position=(400 ; 101)} ->> x=400, y=100
+Removing target
+;VoiceCommand(direction=SOUTH, speedLevel=L0_RUNNING_HUMAN)
+Training is over in 277s
+Training result COMPLETED

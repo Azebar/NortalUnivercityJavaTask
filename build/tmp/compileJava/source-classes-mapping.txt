@@ -1,0 +1,20 @@
+com/nortal/clark/training/assignment/model/Position.java
+ com.nortal.clark.training.assignment.model.Position
+com/nortal/clark/training/assignment/MainClass.java
+ com.nortal.clark.training.assignment.MainClass
+com/nortal/clark/training/assignment/model/TrainingStatus.java
+ com.nortal.clark.training.assignment.model.TrainingStatus
+com/nortal/clark/training/assignment/model/Direction.java
+ com.nortal.clark.training.assignment.model.Direction
+com/nortal/clark/training/assignment/model/SpeedLevel.java
+ com.nortal.clark.training.assignment.model.SpeedLevel
+com/nortal/clark/training/assignment/model/CityMap.java
+ com.nortal.clark.training.assignment.model.CityMap
+com/nortal/clark/training/assignment/model/Clark.java
+ com.nortal.clark.training.assignment.model.Clark
+com/nortal/clark/training/assignment/model/VoiceCommand.java
+ com.nortal.clark.training.assignment.model.VoiceCommand
+com/nortal/clark/training/assignment/model/TrainingResult.java
+ com.nortal.clark.training.assignment.model.TrainingResult
+com/nortal/clark/training/assignment/controller/You.java
+ com.nortal.clark.training.assignment.controller.You
